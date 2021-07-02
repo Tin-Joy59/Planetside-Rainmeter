@@ -1,5 +1,7 @@
 # Planetside Rainmeter
 
+![](.ignore/name-of-giphy.gif)
+
 ### Requirements
 
 * [Rainmeter](https://github.com/rainmeter/rainmeter)
