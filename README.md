@@ -5,6 +5,8 @@
 ## Features
 
 #### Status for a single server
+I felt that the support for multiple servers defies the role of this small widge. If you need to, you can set up two instances by duplicating the ServerStatus folder with a different name.
+
 #### States of continents
 Supported states are Locked, Unstable, Stable, Alert and Unstable Alert. You can easily customize the icons for each state. Current icons were extracted from the game files.
 
@@ -20,7 +22,7 @@ Pop distibution is requested from [Fisu.pw](https://ps2.fisu.pw/) API
 
 ![](/misc/feature_pop.png)
 
-####Customizable refresh rate (Default: 60s)
+#### Customizable refresh rate (Default: 60s)
 Please, keep in mind that there are 2 requests to the APIs on every update cycle. Setting a higher refresh rate **DOES NOT** help with the performance of the widget. My advice is to keep it between 1 and 5 minutes.
 
 ## Requirements
