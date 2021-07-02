@@ -23,7 +23,7 @@ Supported states are Locked, Unstable, Stable, Alert and Unstable Alert. You can
 
 ![](/misc/states.png)
 
-### Alert counшdown
+### Alert countdown
 The alert countdown updates in real time. Every update cycle, the counter syncs with the remaining time from the API. 
 
 ![](/misc/feature_alert.png)
