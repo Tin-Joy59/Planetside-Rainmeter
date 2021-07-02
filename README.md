@@ -15,7 +15,7 @@
 
 ## Features
 
-#### Status for a single server
+### Status for a single server
 I felt that the support for multiple servers defies the role of this small widge. If you need to, you can set up two instances by duplicating the ServerStatus folder with a different name.
 
 ### States of continents
@@ -34,7 +34,7 @@ Pop distibution is requested from [Fisu.pw](https://ps2.fisu.pw/) API. Last valu
 ![](/misc/feature_pop.png)
 
 ### Customizable refresh rate
-Default refresh rate is 60 seconds. Please, keep in mind that there are 2 requests to the APIs on every update cycle. Setting a higher refresh rate **DOES NOT** help with the performance of the widget. My advice is to keep it between 1 and 5 minutes.
+Default refresh rate is 60 seconds. Please, keep in mind that there are 2 requests to the APIs on every update cycle. Setting a higher refresh rate **DOES NOT** help with the performance of the widget. My advice is to keep it between 1 and 5 minutes. You can see the last refresh time at the bottom.
 
 ## Requirements
 
