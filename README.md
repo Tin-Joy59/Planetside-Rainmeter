@@ -1,6 +1,6 @@
 # Planetside Rainmeter
 
-###Requirements
+### Requirements
 
 * [Rainmeter](https://github.com/rainmeter/rainmeter)
 * [Json Parser plugin for Rainmeter](https://github.com/e2e8/rainmeter-jsonparser)
