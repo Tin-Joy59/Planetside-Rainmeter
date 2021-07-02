@@ -29,7 +29,7 @@ The alert countdown updates in real time. Every update cycle, the counter syncs 
 ![](/misc/feature_alert.png)
 
 ### Population distribution
-Pop distibution is requested from [Fisu.pw](https://ps2.fisu.pw/) API
+Pop distibution is requested from [Fisu.pw](https://ps2.fisu.pw/) API. Last value is total players online.
 
 ![](/misc/feature_pop.png)
 
