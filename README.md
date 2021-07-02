@@ -2,11 +2,11 @@
 
 ![](/misc/inaction.gif)
 
-### Features
+## Features
 
 #### Status for a single server
 #### States of continents
-Supported states are Locked, Unstable, Stable, Alert and Unstable Alert. You can easily customize the icons for each state.
+Supported states are Locked, Unstable, Stable, Alert and Unstable Alert. You can easily customize the icons for each state. Current icons were extracted from the game files.
 
 ![](/misc/states.png)
 
@@ -23,7 +23,7 @@ Pop distibution is requested from [Fisu.pw](https://ps2.fisu.pw/) API
 ####Customizable refresh rate (Default: 60s)
 Please, keep in mind that there are 2 requests to the APIs on every update cycle. Setting a higher refresh rate **DOES NOT** help with the performance of the widget. My advice is to keep it between 1 and 5 minutes.
 
-### Requirements
+## Requirements
 
 * [Rainmeter](https://github.com/rainmeter/rainmeter)
 * [Json Parser plugin for Rainmeter](https://github.com/e2e8/rainmeter-jsonparser)
