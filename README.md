@@ -6,11 +6,17 @@
 
 * Status for a single server
 * States of continents
+
 ![](/misc/states.png)
+
 * Alert coundown in real time
+
 ![](/misc/feature_alert.png)
+
 * Population distribution
+
 ![](/misc/feature_pop.png)
+
 * Customizable refresh rate (Default: 60s)
 
 ### Requirements
