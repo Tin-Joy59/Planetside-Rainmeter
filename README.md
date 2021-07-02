@@ -1,6 +1,6 @@
 # Planetside Rainmeter
 
-![](/misc/name-of-giphy.gif)
+![](/misc/inaction.gif)
 
 ### Requirements
 
