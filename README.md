@@ -7,14 +7,17 @@
 #### Status for a single server
 #### States of continents
 Supported states are Locked, Unstable, Stable, Alert and Unstable Alert. You can easily customize the icons for each state.
+
 ![](/misc/states.png)
 
 #### Alert counшdown
 The alert countdown updates in real time. Every update cycle, the conuter syncs with the remaining time from the API. 
+
 ![](/misc/feature_alert.png)
 
 #### Population distribution
 Pop distibution is requested from [Fisu.pw](https://ps2.fisu.pw/) API
+
 ![](/misc/feature_pop.png)
 
 ####Customizable refresh rate (Default: 60s)
