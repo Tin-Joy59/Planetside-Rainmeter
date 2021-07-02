@@ -1,6 +1,20 @@
-# Planetside Rainmeter
+<div align="center">
+	<br>
+	<br>
+	<a href="https://sindresorhus.com/caprine">
+		<img src="/misc/inaction.gif" width="320">
+	</a>
+	<h1>Planetside Rainmeter</h1>
+	<p>
+		<b>A collection of rainmeter widgets to monitor your favorite game</b>
+	</p>
+	<br>
+	<br>
+	<br>
+</div>
+# 
 
-![](/misc/inaction.gif)
+
 
 ## Features
 
